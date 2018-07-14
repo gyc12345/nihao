@@ -1,0 +1,21 @@
+{
+	"name":"gyc12345/nihao",
+	"description":"di yici zuo ziji de bao",
+	"type":"library",
+	"license":"MIT",
+	"authors":[
+		{
+			"name":"gyc12345",
+			"email":"xxxx@qq.com"
+		}
+	],
+	"minimum-stability":"dev",
+	"autoload":{
+		"files":[
+			"tools.php"
+
+		]
+	}
+
+
+}
